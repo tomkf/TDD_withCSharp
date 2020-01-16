@@ -1,0 +1,15 @@
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\staticwebassets\MVC_inclass.StaticWebAssets.Manifest.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\staticwebassets\MVC_inclass.StaticWebAssets.xml
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.RazorAssemblyInfo.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.RazorAssemblyInfo.cs
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.AssemblyInfoInputs.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.AssemblyInfo.cs
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.csprojAssemblyReference.cache
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\staticwebassets\MVC_inclass.StaticWebAssets.Manifest.cache
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\staticwebassets\MVC_inclass.StaticWebAssets.xml
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.RazorAssemblyInfo.cache
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.RazorAssemblyInfo.cs
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.AssemblyInfoInputs.cache
+C:\Users\A01211467\Desktop\inClass\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp3.1\MVC_inclass.AssemblyInfo.cs

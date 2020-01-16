@@ -1,0 +1,3 @@
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp2.2\MVC_inclass.csprojAssemblyReference.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp2.2\MVC_inclass.AssemblyInfoInputs.cache
+C:\Users\A01211467\Desktop\MVC_inclass\MVC_inclass\obj\Debug\netcoreapp2.2\MVC_inclass.AssemblyInfo.cs
